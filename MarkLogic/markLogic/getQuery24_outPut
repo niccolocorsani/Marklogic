@@ -1,0 +1,21 @@
+
+"Giovedi"
+"poco nuvoloso"
+"19"^^<http://www.w3.org/2001/XMLSchema#integer>
+"27"^^<http://www.w3.org/2001/XMLSchema#integer>
+"2015-05-14T15:26:00+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>
+http://www.disit.org/km4city/resource/Firenze14316099670001giorno
+"Venerdi"
+"pioggia debole"
+"12"^^<http://www.w3.org/2001/XMLSchema#integer>
+"22"^^<http://www.w3.org/2001/XMLSchema#integer>
+"2015-05-14T15:26:00+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>
+http://www.disit.org/km4city/resource/Firenze14316099670002giorno
+"Sabato"
+"coperto"
+"11"^^<http://www.w3.org/2001/XMLSchema#integer>
+"23"^^<http://www.w3.org/2001/XMLSchema#integer>
+"2015-05-14T15:26:00+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>
+http://www.disit.org/km4city/resource/Firenze14316099670003giorno
+"Domenica"
+"poco nuvoloso"
