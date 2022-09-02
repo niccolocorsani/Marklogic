@@ -61,7 +61,7 @@ public class ConnPersistent {
 
 		Repository rep = null;
 		long inizio = 0;
-		rep = new MarkLogicRepository("localhost", 8000, "niccocorsa", "grifone", "DIGEST");
+		rep = new MarkLogicRepository("localhost", 8000, "", "", "DIGEST");
 		rep.initialize();
 		repCon = (MarkLogicRepositoryConnection) rep.getConnection();
 		System.out.println("Connessione creata : " + repCon);
